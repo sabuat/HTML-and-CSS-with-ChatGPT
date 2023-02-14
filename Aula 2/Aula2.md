@@ -16,23 +16,23 @@ Além do HTML, é comum usar CSS (Cascading Style Sheets) para estilizar a apar�
 
 ### Como funciona:
 
-HTML consiste em elementos HTML, como <p>, <h1>, <img>, que são usados para definir diferentes tipos de conteúdo na página.
+HTML consiste em elementos HTML, como "<p>, <h1>, <img>", que são usados para definir diferentes tipos de conteúdo na página.
 
-Cada elemento HTML é marcado com uma tag, como <p> ou <h1>, que indica ao navegador como ele deve ser exibido.
+Cada elemento HTML é marcado com uma tag, como "<p> ou <h1>", que indica ao navegador como ele deve ser exibido.
 
 As tags são usadas em pares, com uma tag de início e uma tag de fechamento, para indicar onde começa e termina um elemento.
 
 O conteúdo que fica entre as tags é o que será exibido pelo navegador na página da web.
 
-Além de elementos de conteúdo, o HTML também inclui elementos de estrutura, como <head> e <body>, que ajudam a organizar o conteúdo da página.
+Além de elementos de conteúdo, o HTML também inclui elementos de estrutura, como "<head> e <body>", que ajudam a organizar o conteúdo da página.
 
 O HTML é interpretado pelo navegador e exibido como uma página da web. Ao usar HTML, você pode criar páginas da web estruturadas, acessíveis e compatíveis com diferentes dispositivos.
 
-### o que é <!DOCTYPE html>
+### o que é "<!DOCTYPE html>"
 
-<!DOCTYPE html> é uma declaração de tipo de documento que informa ao navegador qual é o tipo de documento HTML que está sendo usado. É importante incluir a declaração de tipo de documento correta no início de um documento HTML para garantir que o navegador exiba o conteúdo da maneira correta.
+"<!DOCTYPE html>" é uma declaração de tipo de documento que informa ao navegador qual é o tipo de documento HTML que está sendo usado. É importante incluir a declaração de tipo de documento correta no início de um documento HTML para garantir que o navegador exiba o conteúdo da maneira correta.
 
-A declaração <!DOCTYPE html> é usada para especificar que o documento é escrito em HTML5, que é a versão mais recente e atualizada do HTML. É importante notar que a declaração de tipo de documento deve ser a primeira coisa no código HTML, antes de qualquer outro elemento ou tag.
+A declaração "<!DOCTYPE html>" é usada para especificar que o documento é escrito em HTML5, que é a versão mais recente e atualizada do HTML. É importante notar que a declaração de tipo de documento deve ser a primeira coisa no código HTML, antes de qualquer outro elemento ou tag.
 
 ## Conteúdo do Curso
 
