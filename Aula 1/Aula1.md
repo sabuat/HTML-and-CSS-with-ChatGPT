@@ -2,9 +2,9 @@
 
 >**Introdução ao HTML**
 >
->O que é HTML
->Uma visão geral da estrutura de uma página HTML
->Como visualizar e editar um arquivo HTML
+>- O que é HTML
+>- Uma visão geral da estrutura de uma página HTML
+>- Como visualizar e editar um arquivo HTML
 
 ### IDE
 

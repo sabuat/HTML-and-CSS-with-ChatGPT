@@ -2,9 +2,9 @@
 
 >**Estrutura básica de uma página HTML**
 >
->A tag HTML
->A tag Head
->A tag Body
+> - A tag HTML
+> - A tag Head
+> - A tag Body
 
 ### O que é HTML
 
