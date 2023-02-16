@@ -1,10 +1,6 @@
 ## Aula 1 
 
->**Introdução ao HTML**
->
->- O que é HTML
->- Uma visão geral da estrutura de uma página HTML
->- Como visualizar e editar um arquivo HTML
+> **Conhecendo o IDE e o Github**
 
 ### IDE
 
