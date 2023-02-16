@@ -1,10 +1,10 @@
 ## Aula 2
 
->**Estrutura básica de uma página HTML**
+>**Introdução ao HTML**
 >
-> - A tag HTML
-> - A tag Head
-> - A tag Body
+>- O que é HTML
+>- Uma visão geral da estrutura de uma página HTML
+>- Como visualizar e editar um arquivo HTML
 
 ### O que é HTML
 
@@ -27,12 +27,6 @@ O conteúdo que fica entre as tags é o que será exibido pelo navegador na pág
 Além de elementos de conteúdo, o HTML também inclui elementos de estrutura, como ``<head> e <body>``, que ajudam a organizar o conteúdo da página.
 
 O HTML é interpretado pelo navegador e exibido como uma página da web. Ao usar HTML, você pode criar páginas da web estruturadas, acessíveis e compatíveis com diferentes dispositivos.
-
-### o que é ``<!DOCTYPE html>``
-
-``<!DOCTYPE html>`` é uma declaração de tipo de documento que informa ao navegador qual é o tipo de documento HTML que está sendo usado. É importante incluir a declaração de tipo de documento correta no início de um documento HTML para garantir que o navegador exiba o conteúdo da maneira correta.
-
-A declaração ``<!DOCTYPE html>`` é usada para especificar que o documento é escrito em HTML5, que é a versão mais recente e atualizada do HTML. É importante notar que a declaração de tipo de documento deve ser a primeira coisa no código HTML, antes de qualquer outro elemento ou tag.
 
 ## Conteúdo do Curso
 
