@@ -10,12 +10,12 @@
 
 ### Tag ``<strong>`` e ``<em>``
 
-As tags <strong> e <em> são usadas no HTML para enfatizar o texto dentro de uma página da web. No entanto, elas têm diferentes significados semânticos.
+As tags ``<strong>`` e ``<em>`` são usadas no HTML para enfatizar o texto dentro de uma página da web. No entanto, elas têm diferentes significados semânticos.
 
-A tag <strong> é usada para dar ênfase forte ao texto, geralmente mudando seu estilo para torná-lo mais visível e destacado. 
+A tag ``<strong>`` é usada para dar ênfase forte ao texto, geralmente mudando seu estilo para torná-lo mais visível e destacado. 
   Por exemplo, você pode usar a tag <strong> para destacar um ponto importante em um parágrafo, ou para tornar um título ou subtítulo mais proeminente na página.
   
-Por outro lado, a tag <em> é usada para dar ênfase enfática ou expressiva ao texto. 
+Por outro lado, a tag ``<em>`` é usada para dar ênfase enfática ou expressiva ao texto. 
   Ela geralmente é interpretada pelos navegadores como colocando o texto em itálico, embora a aparência final dependa do estilo aplicado na página.
 
 Embora a aparência final das tags <strong> e <em> possa variar dependendo do estilo aplicado na página, 
@@ -32,13 +32,13 @@ Já em uma lista ordenada, os itens são numerados ou apresentados com letras.
 
 Aqui está um exemplo de uma lista não ordenada:
 
-``<ul>``
-  ``<li>Item 1</li>``
-
-  ``<li>Item 2</li>``
-
-  ``<li>Item 3</li>``
-``</ul>``
+```
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+```
 
 E aqui está um exemplo de uma lista ordenada:
 
