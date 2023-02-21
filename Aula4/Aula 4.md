@@ -18,9 +18,9 @@ A tag ``<strong>`` é usada para dar ênfase forte ao texto, geralmente mudando 
 Por outro lado, a tag ``<em>`` é usada para dar ênfase enfática ou expressiva ao texto. 
   Ela geralmente é interpretada pelos navegadores como colocando o texto em itálico, embora a aparência final dependa do estilo aplicado na página.
 
-Embora a aparência final das tags <strong> e <em> possa variar dependendo do estilo aplicado na página, 
+Embora a aparência final das tags ``<strong>`` e ``<em>`` possa variar dependendo do estilo aplicado na página, 
   é importante lembrar que elas têm significados semânticos distintos e devem ser usadas de acordo com a intenção do autor. 
-  A tag <strong> é usada para dar ênfase forte, enquanto a tag <em> é usada para dar ênfase enfática ou expressiva.
+  A tag ``<strong>`` é usada para dar ênfase forte, enquanto a tag ``<em>`` é usada para dar ênfase enfática ou expressiva.
   
 ### Diferença entre ul e ol no HTML?
 ``<ul>`` e ``<ol>`` são elementos HTML usados para criar listas.
@@ -43,15 +43,13 @@ Aqui está um exemplo de uma lista não ordenada:
 E aqui está um exemplo de uma lista ordenada:
 
 
-``<ol>``
-
-  ``<li>Item 1</li>``
-
-  ``<li>Item 2</li>``
-
-  ``<li>Item 3</li>``
-
-``</ol>``
+```
+  <ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ol>
+```
 
 Em ambos os exemplos, cada item da lista é definido com o elemento ``<li>`` (item de lista).
 
@@ -65,15 +63,16 @@ respectivamente. O elemento ``<dt>`` é usado para definir o termo (ou item) da 
 
 Aqui está um exemplo simples de como criar uma lista de definição com a utilização do elemento ``<dl>``:
 
-``<dl>``
-
-  ``<dt>Termo 1</dt>``
-  ``<dd>Descrição 1</dd>``
-  ``<dt>Termo 2</dt>``
-  ``<dd>Descrição 2</dd>``
-  ``<dt>Termo 3</dt>``
-  ``<dd>Descrição 3</dd>``
-``</dl>``
+```
+  <dl>
+    <dt>Termo 1</dt>
+    <dd>Descrição 1</dd>
+    <dt>Termo 2</dt>
+    <dd>Descrição 2</dd>
+    <dt>Termo 3</dt>
+    <dd>Descrição 3</dd>
+  </dl>
+```
 
 No exemplo acima, criamos uma lista de definição com três pares de termos e suas respectivas definições. 
 É importante notar que a lista de definição pode ter quantos pares de termos e definições forem necessários.
