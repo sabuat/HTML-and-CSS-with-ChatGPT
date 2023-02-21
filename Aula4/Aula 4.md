@@ -66,11 +66,11 @@ Aqui está um exemplo simples de como criar uma lista de definição com a utili
 ```
   <dl>
     <dt>Termo 1</dt>
-    <dd>Descrição 1</dd>
+      <dd>Descrição 1</dd>
     <dt>Termo 2</dt>
-    <dd>Descrição 2</dd>
+      <dd>Descrição 2</dd>
     <dt>Termo 3</dt>
-    <dd>Descrição 3</dd>
+      <dd>Descrição 3</dd>
   </dl>
 ```
 
