@@ -17,28 +17,35 @@ O texto dentro da tag anchor é exibido como o texto do link.
 
 Por exemplo, para criar um link que leva a uma seção específica da mesma página, você pode usar o seguinte código HTML:
 
->``<a href="#secao1">Ir para a Seção 1</a>``
->...
->``<h2 id="secao1">Seção 1</h2>``
+```
+  <a href="#secao1">Ir para a Seção 1</a>
+  ...
+  <h2 id="secao1">Seção 1</h2>
+```
 
 Neste exemplo, o valor do atributo "href" é "#secao1", que é um identificador exclusivo para a seção 1 da página. 
 Quando o usuário clica no link, ele será levado diretamente para a seção 1 da mesma página.
 
 Além disso, a tag anchor também pode ser usada para criar links para outras páginas da web, como neste exemplo:
 
->``<a href="https://www.exemplo.com">Visite Exemplo.com</a>``
+```
+<a href="https://www.exemplo.com">Visite Exemplo.com</a>
+```
 
 Neste caso, o valor do atributo "href" é a URL completa para a página que você deseja vincular. 
 Quando o usuário clica no link, ele será levado para a página vinculada.
 
 ### *href*
+
 O atributo "href" em HTML é usado para especificar o destino de um link criado com a tag "a" (âncora).
 O valor do atributo "href" é geralmente uma URL (Uniform Resource Locator) que identifica o endereço da página da web, imagem, 
 vídeo, arquivo de áudio ou qualquer outro recurso que você deseja vincular.
 
 A sintaxe básica da tag "a" com o atributo "href" é a seguinte:
 
-> ``<a href="URL">Texto do link</a>``
+```
+<a href="URL">Texto do link</a>
+```
 
 Aqui, "URL" é a localização do recurso que você deseja vincular e "Texto do link" é o texto que será exibido como o link no navegador. 
 Quando um usuário clica no link, ele é levado para a página ou recurso especificado pela URL.
