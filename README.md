@@ -51,4 +51,4 @@ Aqui está uma sugestão de trilha de estudos para aprender HTML em 20 aulas, um
 >
 >- A tag Table (table)
 >- As tags Table Row (tr), Table Header Cell (th) e Table Data Cell (td)
->- verificando o estudado até agora
+>- Verificando o estudado até agora
