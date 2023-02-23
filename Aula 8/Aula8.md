@@ -2,9 +2,9 @@
 
 > **Criando Formularios**
 >
->- A tag Table (table)
->- As tags Table Row (tr), Table Header Cell (th) e Table Data Cell (td)
->- Verificando o estudado até agora
+>- A tag Form
+>- As tags input, label, textarea
+>- Atributos da tag Input
 
 Estrutura básica de um formulário em HTML
 A estrutura básica de um formulário em HTML consiste em um conjunto de elementos que permitem aos usuários inserir dados e enviá-los para um servidor para processamento.
