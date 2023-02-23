@@ -53,7 +53,7 @@ Aqui está uma sugestão de trilha de estudos para aprender HTML em 20 aulas, um
 >- As tags Table Row (tr), Table Header Cell (th) e Table Data Cell (td)
 >- Verificando o estudado até agora
 
->**Aula 8: Tabelas + Resumão**
+>**Aula 8: Criando Formularios**
 >
 >- A tag Form
 >- As tags input, label, textarea
