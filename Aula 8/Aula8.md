@@ -6,7 +6,8 @@
 >- As tags input, label, textarea
 >- Atributos da tag Input
 
-Estrutura básica de um formulário em HTML
+### Estrutura básica de um formulário em HTML
+
 A estrutura básica de um formulário em HTML consiste em um conjunto de elementos que permitem aos usuários inserir dados e enviá-los para um servidor para processamento.
 
 Aqui está um exemplo de uma estrutura básica de formulário em HTML:
