@@ -4,7 +4,6 @@
 >
 >- Como o CSS funciona com HTML
 >- Inserindo CSS em seu documento HTML
->-
 
 ### Como o CSS funciona com HTML
 
