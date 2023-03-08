@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Contato</title>
+    </head>
+    <body>
+        <header>
+            <h2>Front End com ChatGPT</h2>
+
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="html-section.html">HTML</a></li>
+                    <li><a href="css-section.html">CSS</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <form>
+                <input type="radio" name="escolha" id="estudante-ensino-medio" value="estudante-ensino-medio">
+                <label for="estudante-ensino-medio">Estudante Ensino Medio</label><br>
+                
+                <input type="radio" name="escolha" id="estudante-ensino-superior" value="estudante-ensino-superior">
+                <label for="estudante-ensino-superior">Estudante Ensino Superior</label><br>
+                
+                <input type="radio" name="escolha" id="profissional-iniciante" value="profissional-iniciante">
+                <label for="profissional-iniciante">Profissional iniciante</label><br>
+                
+                <input type="radio" name="escolha" id="profissional-experiente" value="profissional-experiente">
+                <label for="profissional-experiente">Profissional experiente</label><br>
+                
+                <input type="radio" name="escolha" id="mudando-de-carreira" value="mudando-de-carreira">
+                <label for="mudando-de-carreira">Mudando de carreira</label><br><br>
+
+                <label for="nome">Nome do Usuario:</label>
+                <input type="text" id="nome" name="nome" placeholder="Nome Completo"><br><br>
+
+                <label for="telf">Telefone do Usuario:</label>
+                <input type="tel" id="telf" name="telf" maxlength="11" placeholder="XX-XXXXX-XXXX"
+                required><br><br>
+
+                <label for="contato">Você quer receber contato por e-mail?</label>
+                <select id="contato" name="contato">
+                    <option value="sim">Quero contato por e-mail</option>
+                    <option value="nao">Não quero contato por e-mail</option>
+                </select><br><br>
+
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="usuario@email.com"><br><br>
+                  
+                <label for="mensagem">Mensagem:</label>
+                <textarea id="mensagem" name="mensagem" maxlength="300"></textarea><br><br>
+
+                <input type="submit" value="Enviar">
+            </form>
+        </main>
+        <footer>
+            <img src="images/Blanco transparente.png" alt="logo de Foco365 branco sem fundo" width="50" 
+            title="logo Foco365">
+            <p><em>Criado no 2023 por AprendendoChatGPT</em></p>
+        </footer>
+    </body>
+</html>
