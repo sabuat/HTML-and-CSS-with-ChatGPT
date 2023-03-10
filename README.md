@@ -58,3 +58,25 @@ Aqui está uma sugestão de trilha de estudos para aprender HTML em 20 aulas, um
 >- A tag Form
 >- As tags input, label, textarea
 >- Atributos da tag Input
+
+> **Aula 9: Finalizando Formularios**
+>
+>- A tag 'checkbox'
+>- A tag 'radio'
+>- A tag 'select' e 'options'
+>- Outras tags adicionais
+
+> **Aula 10: Conhecendo o CSS**
+>
+>- Como o CSS funciona com HTML
+>- Inserindo CSS em seu documento HTML
+
+> **Aula 11: Seletores em CSS**
+>
+>- Como selecionar elementos HTML com CSS
+>- Seletores de classe e ID
+
+> **Aula 12: Cores em CSS**
+>
+>- Resetar estilo precarregado
+>- Cores em CSS: Nomes, Hexadecimal, RGB, RGBA, HSL, HSLA
