@@ -80,3 +80,8 @@ Aqui está uma sugestão de trilha de estudos para aprender HTML em 20 aulas, um
 >
 >- Resetar estilo precarregado
 >- Cores em CSS: Nomes, Hexadecimal, RGB, RGBA, HSL, HSLA
+
+> **Aula 13: Fontes em CSS**
+>
+>- Fontes em CSS
+>- Atributos para as fontes em CSS
