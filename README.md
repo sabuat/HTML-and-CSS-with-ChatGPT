@@ -85,3 +85,8 @@ Aqui está uma sugestão de trilha de estudos para aprender HTML em 20 aulas, um
 >
 >- Fontes em CSS
 >- Atributos para as fontes em CSS
+
+>  **Aula 14: Box Model em CSS**
+>
+>- Como funciona o Box Model no CSS
+>- Box sizing
