@@ -3,7 +3,7 @@
 >  **Box Model em CSS**
 >
 >- Como funciona o Box Model no CSS
->- 
+>- Box sizing
 
 ### Como funciona o Box Model no CSS
 
