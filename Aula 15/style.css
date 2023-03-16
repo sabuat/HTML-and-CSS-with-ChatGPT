@@ -1,0 +1,111 @@
+/* 
+Cores 
+    Cinza #7a7575
+    Branco #faebd7
+    Preto #222222
+
+*/
+
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 150%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    background: none;
+    border: none;
+}
+
+#button-one {
+    background-color: #222222;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 120%;
+    padding: 10px 20px;
+    color: #faebd7;
+    margin-top: 25 px;
+}
+
+header {
+    margin: 20px;
+}
+
+#imagem-cabeçalho {
+    width: 100%;
+}
+
+main {
+    margin: 20px;
+}
+
+div {
+    margin: 20px 20px;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-size: 130%;
+    padding: 10px;
+}
+
+p {
+    color: #222222;
+    line-height: 180%;
+    padding: 0px 25px;
+    margin-bottom: 25px;
+}
+
+#saiba-mais {
+    background-color: #222222;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-size: 120%;
+    padding: 10px 20px;
+    margin-left: 10px;
+    color: #faebd7;
+}
+
+dl {
+    border: solid 1px;
+    border-radius: 10px;
+    padding: 15px 0px;
+    margin: 0px 150px;
+}
+
+dt {
+    font-weight: 500;
+    font-size: 115%;
+    margin-left: 75px;
+}
+
+dd {
+    margin: 8px 150px;
+    color: #222222;
+    text-align: justify;
+
+}
+
+.curso{
+    vertical-align: ;
+    text-align: center;
+}
+
+footer{
+    margin: 0px;
+    background-color: #7a7575;
+}
+
+
+h2 {
+    font-weight: 600;
+    font-size: 2em;
+}
+
+
