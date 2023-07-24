@@ -2,6 +2,8 @@
 
 > **Conhecendo o IDE e o Github**
 
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://youtu.be/3LECA_QMBs8)
+
 ### IDE
 
 IDE é a sigla em inglês para Integrated Development Environment, que em português significa Ambiente de Desenvolvimento Integrado. É uma ferramenta de software utilizada por programadores para escrever, testar, debugar e gerenciar código-fonte.
