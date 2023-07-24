@@ -2,7 +2,7 @@
 
 > **Conhecendo o IDE e o Github**
 
-[![Alt text](https://img.youtube/3LECA_QMBs8.jpg)](https://youtu.be/3LECA_QMBs8)
+[![Alt text](https://img.youtube.com/vi/3LECA_QMBs8/0.jpg)](https://www.youtube.com/watch?v=3LECA_QMBs8)
 
 ### IDE
 
