@@ -6,6 +6,8 @@
 >- Uma visão geral da estrutura de uma página HTML
 >- Como visualizar e editar um arquivo HTML
 
+[![Alt text](https://img.youtube.com/vi/cdkqk1dhfhY/0.jpg)](https://www.youtube.com/watch?v=ccdkqk1dhfhY)
+
 ### O que é HTML
 
 HTML (HyperText Markup Language) é a linguagem de marcação utilizada para criar páginas da web. Ele fornece uma estrutura para o conteúdo da página, incluindo texto, imagens, links, formulários e outros elementos, que são exibidos pelo navegador web.
